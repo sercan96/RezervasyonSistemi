@@ -1,0 +1,48 @@
+C:\Users\Toshiba\Desktop\QUIZ2 - Kopya\QUIZ2\bin\Debug\net5.0\RezervasyonSistemi.exe
+C:\Users\Toshiba\Desktop\QUIZ2 - Kopya\QUIZ2\bin\Debug\net5.0\RezervasyonSistemi.deps.json
+C:\Users\Toshiba\Desktop\QUIZ2 - Kopya\QUIZ2\bin\Debug\net5.0\RezervasyonSistemi.runtimeconfig.json
+C:\Users\Toshiba\Desktop\QUIZ2 - Kopya\QUIZ2\bin\Debug\net5.0\RezervasyonSistemi.runtimeconfig.dev.json
+C:\Users\Toshiba\Desktop\QUIZ2 - Kopya\QUIZ2\bin\Debug\net5.0\RezervasyonSistemi.dll
+C:\Users\Toshiba\Desktop\QUIZ2 - Kopya\QUIZ2\bin\Debug\net5.0\ref\RezervasyonSistemi.dll
+C:\Users\Toshiba\Desktop\QUIZ2 - Kopya\QUIZ2\bin\Debug\net5.0\RezervasyonSistemi.pdb
+C:\Users\Toshiba\Desktop\QUIZ2 - Kopya\QUIZ2\obj\Debug\net5.0\RezervasyonSistemi.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\QUIZ2 - Kopya\QUIZ2\obj\Debug\net5.0\RezervasyonSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\QUIZ2 - Kopya\QUIZ2\obj\Debug\net5.0\RezervasyonSistemi.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\QUIZ2 - Kopya\QUIZ2\obj\Debug\net5.0\RezervasyonSistemi.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\QUIZ2 - Kopya\QUIZ2\obj\Debug\net5.0\RezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\QUIZ2 - Kopya\QUIZ2\obj\Debug\net5.0\RezervasyonSistemi.dll
+C:\Users\Toshiba\Desktop\QUIZ2 - Kopya\QUIZ2\obj\Debug\net5.0\ref\RezervasyonSistemi.dll
+C:\Users\Toshiba\Desktop\QUIZ2 - Kopya\QUIZ2\obj\Debug\net5.0\RezervasyonSistemi.pdb
+C:\Users\Toshiba\Desktop\QUIZ2 - Kopya\QUIZ2\obj\Debug\net5.0\RezervasyonSistemi.genruntimeconfig.cache
+C:\RezervasyonSistemi\QUIZ2\bin\Debug\net5.0\RezervasyonSistemi.exe
+C:\RezervasyonSistemi\QUIZ2\bin\Debug\net5.0\RezervasyonSistemi.deps.json
+C:\RezervasyonSistemi\QUIZ2\bin\Debug\net5.0\RezervasyonSistemi.runtimeconfig.json
+C:\RezervasyonSistemi\QUIZ2\bin\Debug\net5.0\RezervasyonSistemi.runtimeconfig.dev.json
+C:\RezervasyonSistemi\QUIZ2\bin\Debug\net5.0\RezervasyonSistemi.dll
+C:\RezervasyonSistemi\QUIZ2\bin\Debug\net5.0\ref\RezervasyonSistemi.dll
+C:\RezervasyonSistemi\QUIZ2\bin\Debug\net5.0\RezervasyonSistemi.pdb
+C:\RezervasyonSistemi\QUIZ2\obj\Debug\net5.0\RezervasyonSistemi.csproj.AssemblyReference.cache
+C:\RezervasyonSistemi\QUIZ2\obj\Debug\net5.0\RezervasyonSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\RezervasyonSistemi\QUIZ2\obj\Debug\net5.0\RezervasyonSistemi.AssemblyInfoInputs.cache
+C:\RezervasyonSistemi\QUIZ2\obj\Debug\net5.0\RezervasyonSistemi.AssemblyInfo.cs
+C:\RezervasyonSistemi\QUIZ2\obj\Debug\net5.0\RezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\RezervasyonSistemi\QUIZ2\obj\Debug\net5.0\RezervasyonSistemi.dll
+C:\RezervasyonSistemi\QUIZ2\obj\Debug\net5.0\ref\RezervasyonSistemi.dll
+C:\RezervasyonSistemi\QUIZ2\obj\Debug\net5.0\RezervasyonSistemi.pdb
+C:\RezervasyonSistemi\QUIZ2\obj\Debug\net5.0\RezervasyonSistemi.genruntimeconfig.cache
+C:\Users\Toshiba\Desktop\RezervasyonSistemi\QUIZ2\bin\Debug\net5.0\RezervasyonSistemi.exe
+C:\Users\Toshiba\Desktop\RezervasyonSistemi\QUIZ2\bin\Debug\net5.0\RezervasyonSistemi.deps.json
+C:\Users\Toshiba\Desktop\RezervasyonSistemi\QUIZ2\bin\Debug\net5.0\RezervasyonSistemi.runtimeconfig.json
+C:\Users\Toshiba\Desktop\RezervasyonSistemi\QUIZ2\bin\Debug\net5.0\RezervasyonSistemi.runtimeconfig.dev.json
+C:\Users\Toshiba\Desktop\RezervasyonSistemi\QUIZ2\bin\Debug\net5.0\RezervasyonSistemi.dll
+C:\Users\Toshiba\Desktop\RezervasyonSistemi\QUIZ2\bin\Debug\net5.0\ref\RezervasyonSistemi.dll
+C:\Users\Toshiba\Desktop\RezervasyonSistemi\QUIZ2\bin\Debug\net5.0\RezervasyonSistemi.pdb
+C:\Users\Toshiba\Desktop\RezervasyonSistemi\QUIZ2\obj\Debug\net5.0\RezervasyonSistemi.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\RezervasyonSistemi\QUIZ2\obj\Debug\net5.0\RezervasyonSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\RezervasyonSistemi\QUIZ2\obj\Debug\net5.0\RezervasyonSistemi.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\RezervasyonSistemi\QUIZ2\obj\Debug\net5.0\RezervasyonSistemi.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\RezervasyonSistemi\QUIZ2\obj\Debug\net5.0\RezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\RezervasyonSistemi\QUIZ2\obj\Debug\net5.0\RezervasyonSistemi.dll
+C:\Users\Toshiba\Desktop\RezervasyonSistemi\QUIZ2\obj\Debug\net5.0\ref\RezervasyonSistemi.dll
+C:\Users\Toshiba\Desktop\RezervasyonSistemi\QUIZ2\obj\Debug\net5.0\RezervasyonSistemi.pdb
+C:\Users\Toshiba\Desktop\RezervasyonSistemi\QUIZ2\obj\Debug\net5.0\RezervasyonSistemi.genruntimeconfig.cache
